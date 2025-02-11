@@ -5,3 +5,4 @@
  (The SRA sequences will be available upon publication of the manuscript.) <br>
  
  ### Please see run.sh file for how to analyze the samples.
+[![DOI](https://zenodo.org/badge/832817041.svg)](https://doi.org/10.5281/zenodo.14853311)
